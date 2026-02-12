@@ -4,4 +4,5 @@ Julia codes for electronic wavefunctions and electronic couplings between an ads
 The result of these codes have been published!
  - https://doi.org/10.1021/jacs.4c14499
  - https://doi.org/10.1063/5.0276905
- - 	arXiv:2410.11793
+ - https://doi.org/10.48550/arXiv.2410.11793
+
